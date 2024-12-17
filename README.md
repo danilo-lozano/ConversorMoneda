@@ -20,17 +20,7 @@ El proyecto permite convertir cantidades de una moneda a otra, utilizando la API
    git clone https://github.com/danilo-lozano/ConversorMoneda.git
    ```
 
-2. Navegar al directorio del proyecto:
-   ```
-   cd ConversorMoneda
-   ```
-
-3. Descargar las dependencias de Maven:
-   ```
-   mvn clean install
-   ```
-
-4. Ejecutar el proyecto:
+2. Ejecutar el proyecto:
    ```
    java -cp target/ConversorMoneda-1.0-SNAPSHOT.jar org.example.Main
    ```
